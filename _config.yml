@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            我是崔超
+title:            '我是崔超'
 tagline:          'Simple is Best.'
 description:      '保持简单'
 url:              http://cuichaox.github.io
@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0
 
 github:
   repo:           https://github.com/cuichaox/cuichaox.github.io
