@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            '我是崔超'
 tagline:          'Simple is Best.'
 description:      '保持简单'
-url:              http://cuichaox.github.io
-baseurl:          http://cuichaox.github.io
+url:              https://cuichaox.github.io
+baseurl:          https://cuichaox.github.io/
 
 author:
   name:           'cuichao'
