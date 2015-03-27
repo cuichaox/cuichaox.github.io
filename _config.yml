@@ -11,7 +11,7 @@ title:            '我是崔超'
 tagline:          'Simple is Best.'
 description:      '保持简单'
 url:              http://cuichaox.github.io
-baseurl:          /
+baseurl:          http://cuichaox.github.io
 
 author:
   name:           'cuichao'
