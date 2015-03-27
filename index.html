@@ -11,10 +11,11 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
+    <span class="post-date">编写日期: {{ post.date | date_to_string }}</span>
+     <div class="entry">
+        {{ post.excerpt }}
+    </div>
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">查看全文</a></a>
   </div>
   {% endfor %}
 </div>
