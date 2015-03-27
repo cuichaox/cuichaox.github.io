@@ -1,0 +1,10 @@
+/*
+ * cuichao.css -
+ * 
+ * 主页文章条目加入边框
+ *
+ */
+
+.entry{
+    border: #ac4142 solid thin;
+}
